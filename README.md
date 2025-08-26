@@ -1,8 +1,8 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi ....👋, I'm Lasith Krishan Wadduwage <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h1>
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=30&center=true&vCenter=true&width=700&height=50&lines=Cyber+Security+Undergraduate.....;Cyber+Security+Enthusiast.....;Hunting+Threats+In+The+Shadows....." alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=30&center=true&vCenter=true&width=700&height=50&lines=Cyber+Security+Enthusiast.....;Hunting+Threats+In+The+Shadows....." alt="Headline" />
     </div>  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lasith-krishan&label=Profile%20views&color=0e75b6&style=flat" alt="lasith-krishan" /> </p>
@@ -123,6 +123,20 @@
 <br>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Lasith_Krishan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Lasith-Krishan" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/Lasith_Krishan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="190" alt="Lasith-Krishan" /></a></p><br><br>
+
+<p >
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+    </picture>
+</p>
+
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+</div>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
