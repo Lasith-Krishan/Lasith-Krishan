@@ -21,7 +21,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+## Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/lasith-krishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lasith-krishan" height="30" width="40" /></a>
 <a href="https://fb.com/lasith.krishan.359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lasith.krishan.359" height="30" width="40" /></a>
@@ -30,7 +30,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages And Tools
 <p align="left">
 
   <!-- C -->
@@ -119,11 +119,7 @@
   </a>
 
 </p>
-
 <br>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Lasith_Krishan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="190" alt="Lasith-Krishan" /></a></p><br><br>
 
 <p >
     <picture align="center">
@@ -134,9 +130,8 @@
 </p>
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  <h4>:heart_eyes: Thanks for watching my profile! Have a nice day! :wink:</h4>
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
