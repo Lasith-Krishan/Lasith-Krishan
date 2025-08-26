@@ -4,7 +4,7 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=30&center=true&vCenter=true&width=700&height=50&lines=Cyber+Security+Enthusiast.....;Hunting+Threats+In+The+Shadows....." alt="Headline" />
     </div>  
-
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lasith-krishan&label=Profile%20views&color=0e75b6&style=flat" alt="lasith-krishan" /> </p>
 
 ## 👨‍💻 About Me
@@ -21,7 +21,7 @@
 
 <br>
 
-## Connect With Me
+## 🤝 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/lasith-krishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lasith-krishan" height="30" width="40" /></a>
 <a href="https://fb.com/lasith.krishan.359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lasith.krishan.359" height="30" width="40" /></a>
@@ -30,7 +30,7 @@
 
 <br>
 
-## Languages And Tools
+## ⚙️ Languages And Tools
 <p align="left">
 
   <!-- C -->
@@ -130,7 +130,7 @@
 </p>
 
 <div align="center">
-  <h4>:heart_eyes: Thanks for watching my profile! Have a nice day! :wink:</h4>
+  <h4>:heart_eyes: Thanks for watching my profile! &nbsp;Have a nice day! :wink:</h4>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
