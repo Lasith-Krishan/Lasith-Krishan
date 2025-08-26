@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
     
-<h4 align="left">I'm a Cybersecurity undergraduate at SLIIT with skills in ethical hacking, penetration testing, and risk management. Experienced in Linux, Bash, and Python scripting, I focus on strengthening defenses through offensive/defensive security practices, Security Operations Center (SOC) activities such as monitoring and incident response, while also exploring Governance, Risk, and Compliance (GRC) frameworks like NIST, ISO 27001, and OCTAVE.</h4>
+<h4 align="justify">I'm a Cybersecurity undergraduate at SLIIT with skills in ethical hacking, penetration testing, and risk management. Experienced in Linux, Bash, and Python scripting, I focus on strengthening defenses through offensive/defensive security practices, Security Operations Center (SOC) activities such as monitoring and incident response, while also exploring Governance, Risk, and Compliance (GRC) frameworks like NIST, ISO 27001, and OCTAVE.</h4>
 
 </br>
 
